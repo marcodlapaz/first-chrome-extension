@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Mi primera extensión",
+    "versión": "1.0 ",
+    "description": "Esta es mi primera extensión.",
+    "icons": {
+        "128": "icon.png"
+    },
+    "action": {
+        "default_popup":
+    }
+}
